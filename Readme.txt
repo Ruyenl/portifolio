@@ -1,0 +1,5 @@
+Em 2023, tive a oportunidade de participar do Programa Nova Geração do Instituto Caldeira, onde pude explorar uma trilha de programação. Durante o programa, tive acesso a cursos de programação oferecidos pela Alura, que me proporcionaram valiosos conhecimentos na área. Foi nesse contexto que desenvolvi meu primeiro projeto utilizando HTML e CSS, uma experiência empolgante e enriquecedora.
+
+
+
+
